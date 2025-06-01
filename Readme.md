@@ -1,10 +1,15 @@
+#### PRE-REQUISITE 
+> [!IMPORTANT]
+> Click [here](https://lewismwaz.github.io/Web_Design_Notes/) to go to the complete Web Design Course Outline Explorer Website.
+
+
 ## 🌐 Week 1: INTRODUCTION & SETUP
 
 ### 📘 Day 1: Introduction to Web Design
 
 #### ✨ Key Concepts:
 
-#### ==How the web works==
+#### How the web works
 ###### `Request-Response model` (browser ⇄ server)
 ##### 1. **Client Sends a Request**
 > The client is usually a **web browser** (e.g., Chrome, Firefox).
