@@ -1,5 +1,5 @@
 ## WDOExplorer
-WDOExplorer is a Web Design Course Outline Explorer webpage. It's a 1-page website built using HTML, CSS, Tailwind CSS, & Vanilla JS.
+WDOExplorer: Web Design Course Outline Explorer webpage is a 1-page website built using HTML, CSS, Tailwind CSS, & Vanilla JS.
 
 
 #### PRE-REQUISITE 
