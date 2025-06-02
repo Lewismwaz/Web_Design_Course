@@ -577,7 +577,7 @@ This makes layouts easier to manage.
 
 #### ✅ Key Concepts:
 
-> ==Flexbox== *allows responsive, one-dimensional layouts*
+> **Flexbox** *allows responsive, one-dimensional layouts*
 
 > Tailwind classes:
  `flex`, `flex-row`, `flex-col` `justify-*`, `items-*`
