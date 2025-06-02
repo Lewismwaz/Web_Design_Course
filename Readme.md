@@ -4,7 +4,7 @@ WDOExplorer is a Web Design Course Outline Explorer webpage. It's a 1-page websi
 
 #### PRE-REQUISITE 
 > [!IMPORTANT]
-> Follow (https://lewismwaz.github.io/Web_Design_Course/) to visit the Web Design Course Outline (WDO) Explorer Website.
+> Follow https://lewismwaz.github.io/Web_Design_Course/ to visit the Web Design Course Outline (WDO) Explorer Website.
 
 
 ## 🌐 Week 1: INTRODUCTION & SETUP
