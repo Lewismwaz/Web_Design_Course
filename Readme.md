@@ -1,6 +1,6 @@
 #### PRE-REQUISITE 
 > [!IMPORTANT]
-> Click [here](https://lewismwaz.github.io/Web_Design_Notes/) to go to the complete Web Design Course Outline Explorer Website.
+> Click [here](https://lewismwaz.github.io/Web_Design_Course/) to go to the complete Web Design Course Outline Explorer Website.
 
 
 ## 🌐 Week 1: INTRODUCTION & SETUP
